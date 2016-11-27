@@ -1,2 +1,2 @@
 # inclusivecolors.github.io
-Website
+https://inclusivecolors.github.io/
