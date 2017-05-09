@@ -1,2 +1,2 @@
-# inclusivecolors.github.io
-https://inclusivecolors.github.io/
+# okulys.github.io
+Visita la web del proyecto: https://okulys.github.io/
