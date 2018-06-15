@@ -64,23 +64,7 @@ a:hover {
 
 header {
   padding-top: 35px;
-  padding-bottom: 25px;
-}
-
-header h1 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 48px; font-weight: 900;
-  line-height: 1.2;
-  color: #303030;
-  letter-spacing: -1px;
-}
-
-header h2 {
-  font-size: 24px;
-  font-weight: normal;
-  line-height: 1.3;
-  color: #aaa;
-  letter-spacing: -1px;
+  padding-bottom: 40px;
 }
 
 #container {
@@ -227,14 +211,19 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
-  font-size: 32px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 48px; font-weight: 900;
+  line-height: 1.2;
+  color: #303030;
+  letter-spacing: -1px;
 }
 
 h2 {
-  margin-bottom: 8px;
-  font-size: 22px;
-  font-weight: bold;
-  color: #303030;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.3;
+  color: #aaa;
+  letter-spacing: -1px;
 }
 
 h3 {
@@ -314,7 +303,9 @@ footer a:hover {
 
 /* IMAGES */
 .laus { 
-  float: left;
+  float: right;
+  width: 80px;
+  margin-left: 50px;
 }
 
 /* EMBED VIMEO */
