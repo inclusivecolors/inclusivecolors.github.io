@@ -312,6 +312,11 @@ footer a:hover {
   color: #444;
 }
 
+/* IMAGES */
+.laus { 
+  float: left;
+}
+
 /* EMBED VIMEO */
 .js-video embed, .js-video iframe, .js-video object, .js-video video {
   top: 0;
